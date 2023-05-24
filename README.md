@@ -33,22 +33,11 @@ Some of the samples of the Test Cases.
   <img src="image/Test%20Case.png" />
 </p>
 
-### Bug Report
-Some of the samples of the Bug Report.
-<p align="center">
-  <img src="image/Bug%20Report.png" />
-</p>
 
 ### Test Case Report
 
 <p align="center">
   <img src="image/Test%20Case%20Report.png" />
-</p>
-
-### Test Metrics
-
-<p align="center">
-  <img src="image/Test%20Metrics.png" />
 </p>
 
 ### Mind Map
