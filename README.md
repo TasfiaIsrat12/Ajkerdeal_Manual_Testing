@@ -16,8 +16,7 @@ The tasks are done for Registration , Sign In & Sign Out,Order, Marchent Corner 
 
 # Summary 
 The Summary of all the tasks done for the Ajkerdeal websites are given below with a table.
-
-| :---         |    
+   
 | Test Case Summary   | 
 | Test Case (64)     | 
 | Bug Report (12)    | 
